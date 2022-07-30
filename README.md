@@ -26,13 +26,17 @@
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/compile_train_evaluate.png)
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/accuracy.png)
 ##### The model was run three times after the initial run to try and improve optimaztion to above 75%. 
-##### 1. Optimization 1 was run with less neurons in each layer and increased the epochs to 100. The accuracy yielded  %
+##### 1. Optimization 1 was run with less neurons in each layer and increased the epochs to 100. The accuracy yielded about 73%
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/optimazation1.png)
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/optimization1_accuracy.png)
-##### 2. Optimaztion 2 was run with even less neurons in each hidden layer and the epochs remained at 100. The accuracy yielded almost 73%
+##### 2. Optimaztion 2 was run with even less neurons in each hidden layer and the epochs remained at 100. The accuracy yielded about 73%
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/optimization2.png)
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/optimization2_accuracy.png)
-##### 3. Optimaztion 3 was run with even less neurons in each hidden layer and the epochs remained at 100. The accuracy yielded almost 73%
+##### 3. Optimaztion 3 was run with even less neurons in each hidden layer and the epochs remained at 100. The accuracy yielded about 73%
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/optimization3.png)
 ![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/optimization3_accuracy.png)
-            
+---
+### Summary
+##### The accuracy results of the deep learning model came back around 73% even after multiple optimizations. From the reading on deep learning models, I have come to understand that although these models are very powerful in what they can do, neural network or deep learning models are not always necessary for some data.
+##### Since the analysis that we wanted to achieve was a simple classification (successful or not successful), a recommendation could be to use a supervised learning machine model with binary classifiers such as a random forest model.
+
