@@ -23,7 +23,7 @@
             - Name
 #### Compiling, Training, and Evaluating the model:
 ##### The original model had 80 neurons in the first hidden layer and 30 in the second hidden layer. The activation functions were relu for the hidden layers and sigmoid for the outer layer. The model ran 50 epochs and produced around a 73% accuracy.
-![]()
+![](https://github.com/yfaulkne/Neural_Network_Charity_Analysis/blob/main/Resources/images/compile_train_evaluate.png)
 ![]()
 
             
